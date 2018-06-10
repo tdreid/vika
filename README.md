@@ -10,7 +10,7 @@ A boilerplate for starting web applications with Express 4 and Pug
 - serve-favicon with default [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) favicon.ico in place
 
 *Dev dependencies to prepare client side JavaScript...*
-- browesrify
+- broweserify
 - babel-core, babel-preset-env, babelify
 - uglify-js
 

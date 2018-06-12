@@ -19,7 +19,7 @@ A boilerplate for starting web applications with Express 4 and Pug
 `npm run build` 
 
 ## Preflight Checklist
-* You should...
+*You should...*
 - Change the title of your application in `/routes/index.js`
 - Give your project a `name` and `version` in `package.json`
 - Build the best app ever!

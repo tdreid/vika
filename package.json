@@ -11,15 +11,15 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "^4.16.4",
-    "morgan": "~1.9.0",
-    "pug": "2.0.0-beta11",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0",
-    "browserify": "^16.2.2",
+    "browserify": "^16.2.3",
     "uglify-js": "^3.4.0"
   }
 }
